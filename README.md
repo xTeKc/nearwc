@@ -1,2 +1,2 @@
 # nearwc
-Near Wallet Connect smart contract.
+Near Wallet Connect.
